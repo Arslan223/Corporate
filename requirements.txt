@@ -2,3 +2,7 @@ pandas
 numpy
 seaborn
 matplotlib
+lxml
+jupyter
+folium
+geopy
